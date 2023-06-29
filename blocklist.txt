@@ -1,6 +1,8 @@
-# 2023-06-29
+# 2023-06-29T16:01
 
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
 ||uptodown.com^
+||academized.com^
+||history-behind-game-of-thrones.com^
