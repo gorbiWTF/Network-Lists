@@ -1,19 +1,19 @@
 # Blocklist for Online Games
-# 2023-06-29T16:00
+# 2023-07-03T17:42
 
 ||mycafe.games^
 # ||playusdev.com^
 # ||tripledotapi.com^
 ||epicgames.com^
 ||epicgames.dev^
-# ||sybo.net^
+||sybo.net^
 ||fuqiangame.com^
 ||nadgames.com^
 ||igre.games^
 ||slopegame3d.com^
 # ||game5backend.com^
 # ||riotgames.com^
-# ||samsung-gamelauncher.com^
+||samsung-gamelauncher.com^
 ||supermario-game.com^
 # ||lifeboat.games^
 ||ketchappgames.com^
@@ -26,7 +26,7 @@
 ||dab3games.com^
 ||spielaffe.de^
 ||agamecdn.com^
-# ||clashroyaleapp.com^
+||clashroyaleapp.com^
 ||clashofclans.com^
 ||gamedistribution.com^
 ||exitgames.com^
@@ -208,7 +208,7 @@
 # ||play-games.googleusercontent.com^
 ||playgamesio.net^
 ||html5gamesforwebsites.com^
-# ||brawlstarsgame.com^
+||brawlstarsgame.com^
 ||supercell.com^
 ||brawlstars.com^
 ||moonactive.net^
@@ -271,7 +271,7 @@
 ||bgames.com^
 ||1001games.com^
 ||shockwave.com^
-||kogstatic.com^
+# ||kogstatic.com^
 ||kogama.com^
 ||y8.net^
 ||achtungkurve.com^
@@ -299,9 +299,9 @@
 ||mercury-the-planet.com^
 ||kolody.net^
 ||themodernmethod.org^
-||ekiry.com^
+# ||ekiry.com^
 ||snatch-a-bite.com^
-||jbones.com^
+# ||jbones.com^
 ||unblockedgamesparadise.com^
 ||66ez.net^
 ||sammycheez.com^
@@ -1126,3 +1126,111 @@
 ||mariospielespielen.de^
 ||bitspiele.de^
 ||playit-online.de^
+||1001hry.cz^
+||spilxl.dk^
+||isladejuegos.com^
+||1001jeux.fr^
+||giochixl.it^
+||jatekokxl.hu^
+||elkspel.nl^
+||spillespill.no^
+||grajteraz.pl^
+||1001jogos.pt^
+||1001jogos.com.br^
+||igrixl.ru^
+||1001jocuri.ro^
+||paixnidiaxl.gr^
+||spelo.se^
+||1001pelit.com^
+||kogama.com.br^
+||play-americas.com^
+||now.gg^
+||ldplayer.tw^
+||ldmnq.com^
+||jopi.com^
+||shooter-bubble.de^
+||bubbleshooterfun.de^
+||arkadium.com^
+||games.aarp.org^
+||bubbleshooter365.com^
+||wordsearch365.com^
+||jigsaw365.com^
+||sudokuonline.io^
+||solitaire365.com^
+||reludi.com^
+||mahjongonline365.com^
+||bubbleshooter.eu^
+||bernhard-gaul.de^
+||bubble-shoot.com^
+||bubble-shooter-free.com^
+||spiele.stern.de^
+||1aspiele.com^
+||ugamezone.com^
+||topspiele.de^
+||ilyon.net^
+||jocurigratuite.ro^
+||juegosgratis.es^
+||pelitpelit.fi^
+||igry.pl^
+||jogos.com.br^
+||spilo.dk^
+||spel.se^
+||spelletjes.io^
+||giochi123.it^
+||juegos.com.ar^
+||eniyioyunlar.com^
+||spillespille.no^
+||jatekokjatekok.hu^
+||jeuxjeux.fr^
+||gamesyy.com^
+||1v1.lol^
+||the.deconstructors.co.uk^
+||taptapking.com^
+||kukogames.com^
+||kiz10girls.com^
+||gz-associates.com^
+||tam-survivio.sysinfo.ro^
+||bitheroesarena.io^
+||mathsspot.com^
+||now.us^
+||slope-game.github.io^
+||doodoo.love^
+||unblockedgamesgg.com^
+||snowrider3dunblocked.github.io^
+||dddavit.github.io^
+||biologyclass.club^
+||agamyacapital.com^
+||jakwhegf.github.io^
+||grandcanyonshuttles.com^
+||zayaruzostreetorgan.com^
+||unblocked66.github.io^
+||smashkarts.io^
+||driplife.net^
+||hwcdn.net^
+||ikatchelo.github.io^
+||lekug.github.io^
+||tbg95.github.io^
+||mazahacka2017.github.io^
+||mathplayground.com^
+||gameplay.intel.com^
+||gameplayapi.intel.com^
+||cdn.rpg.riotgames.com.c.footprint.net^
+||glitch.me^
+||minecraft.net^
+||xboxlive.com^
+||minecraft-services.net^
+||xboxlive.com.akadns.net^
+||minecraftservices.com^
+||slopegame.io^
+||emulatorgames.net^
+||rainbowfriendsgame.com^
+||gamesdizi.com^
+||spieleaffe.org^
+||paperminecraft.io^
+||simcitybuildit.com^
+||rovio.com^
+||angrybirdsbigadventure.net^
+||xboxab.com^
+||nianticlabs.com^
+||games.gmx.net^
+||tappsgames.com^
