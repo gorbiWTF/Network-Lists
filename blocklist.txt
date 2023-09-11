@@ -1,4 +1,4 @@
-# 2023-06-29T16:01
+# 2023-09-11T13:33
 
 ||dsc.gg^
 ||pages.dev^
@@ -34,3 +34,17 @@
 ||xiaomi.com^
 ||huawei.com^
 ||translate.goog^
+||ampproject.org^
+||ampproject.net^
+||kaspersky.com^
+||fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com^
+||fr-app-chat-global-xiaomi-net-3-1830982956.eu-central-1.elb.amazonaws.com^
+||fr-app-chat-global-xiaomi-net-5-1350631744.eu-central-1.elb.amazonaws.com^
+||fr-app-chat-global-xiaomi-net-6-2041664722.eu-central-1.elb.amazonaws.com^
+||fr-app-chat-global-xiaomi-net-7-1441165053.eu-central-1.elb.amazonaws.com^
+||fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com^
+||kaspersky-labs.com^
+||snapchat.com^
+||samsungcloud.com^
+||whatsapp.net^
+||sc-gw.com^
