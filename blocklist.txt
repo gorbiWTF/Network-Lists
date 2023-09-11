@@ -1,4 +1,4 @@
-# 2023-09-11T13:33
+# 2023-09-11T13:41
 
 ||dsc.gg^
 ||pages.dev^
@@ -48,3 +48,7 @@
 ||samsungcloud.com^
 ||whatsapp.net^
 ||sc-gw.com^
+||smartpcupdate.com^
+||avqtools.com^
+||sc-cdn.net^
+||sc-prod.net^
