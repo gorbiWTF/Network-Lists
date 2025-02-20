@@ -1,5 +1,5 @@
 # RTR Aktive Netzsperren
-# 2023-08-07
+# Sperren berücksichtigt bis inklusive 2024-12-09
 
 ||kinox.to^
 ||movie4k.to^
@@ -100,6 +100,7 @@
 ||francais.rt.com^
 ||actualidad.rt.com^
 ||sputniknews.com^
+||zusätzlicheSperren:^
 ||deutsch.rt.com^
 ||fr.rt.com^
 ||radiosputnik.ria.ru^
@@ -205,3 +206,10 @@
 ||fmovies.ink^
 ||fmoviesf.co^
 ||seasonvar.ru^
+||megakino.co^
+||megakino.rip^
+||megakino.biz^
+||megakino.ink^
+||megakino.men^
+||megakino.me^
+||megakino.ws^
