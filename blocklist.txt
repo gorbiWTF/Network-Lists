@@ -52,3 +52,4 @@
 ||avqtools.com^
 ||sc-cdn.net^
 ||sc-prod.net^
+||tiktokv.eu^
