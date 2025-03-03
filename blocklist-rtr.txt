@@ -100,7 +100,6 @@
 ||francais.rt.com^
 ||actualidad.rt.com^
 ||sputniknews.com^
-||zusätzlicheSperren:^
 ||deutsch.rt.com^
 ||fr.rt.com^
 ||radiosputnik.ria.ru^
