@@ -1,4 +1,4 @@
-! 2025-03-07T12:28
+! 2025-03-07T12:48
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
@@ -59,23 +59,9 @@
 ||discord.com^
 ||discord.gg^
 ||labkas.com^
-||steamserver.net^
-||steamstatic.com^
 ||byteintl.com^
 ||tiktokeu-cdn.com^
 ||bytefcdn-ttpeu.com^
-||play.google.com^
-||android.com^
-||google-analytics.com^
-||gvt1.com^
-||ggpht.com^
-||dl.google.com^
-||dl-ssl.google.com^
-||android.clients.google.com^
-||gvt2.com^
-||gvt3.com^
-||steampowered.com^
-||play.googleapis.com^
 ||tiktokcdn-eu.com ^
 ||tiktok.com^
 ||ibyteimg.com^
@@ -97,4 +83,5 @@
 ||twitch.map.fastly.net^
 ||jtvnw.net^
 ||twitchcdn.net^
-||steamcommunity.com^
+||fbpigeon.com^
+||avast.com^
