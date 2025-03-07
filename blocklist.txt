@@ -1,4 +1,4 @@
-! 2025-03-03T12:14
+! 2025-03-07T12:28
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
@@ -74,3 +74,27 @@
 ||android.clients.google.com^
 ||gvt2.com^
 ||gvt3.com^
+||steampowered.com^
+||play.googleapis.com^
+||tiktokcdn-eu.com ^
+||tiktok.com^
+||ibyteimg.com^
+||byteoversea.com^
+||ibytedtos.com^
+||i18n-pglstatp.com^
+||byteoversea.net^
+||bytefcdn-oversea.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||tiktokcdn-us.com^
+||tiktokv.us^
+||tiktokcdn-eu.com^
+||ttoverseaus.net^
+||bytedance.map.fastly.net^
+||tiktokv.com.ttdns2.com^
+||twitch.tv^
+||ttvnw.net^
+||twitch.map.fastly.net^
+||jtvnw.net^
+||twitchcdn.net^
+||steamcommunity.com^
