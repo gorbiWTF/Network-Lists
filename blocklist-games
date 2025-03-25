@@ -1,8 +1,8 @@
 # Blocklist for Online Games and similar stuff
-# 2023-09-25T15:16
+# 2025-03-25T12:37
 ||mycafe.games^
-! ||playusdev.com^
-! ||tripledotapi.com^
+||playusdev.com^
+||tripledotapi.com^
 ||epicgames.com^
 ||epicgames.dev^
 ||sybo.net^
@@ -10,18 +10,18 @@
 ||nadgames.com^
 ||igre.games^
 ||slopegame3d.com^
-! ||game5backend.com^
-! ||riotgames.com^
+||game5backend.com^
+||riotgames.com^
 ||samsung-gamelauncher.com^
 ||supermario-game.com^
-! ||lifeboat.games^
+||lifeboat.games^
 ||ketchappgames.com^
 ||funnygames.at^
 ||html5games.com^
 ||fingersoft.net^
 ||gameflare.com^
 ||game-game.com.de^
-! ||gamesforkidsclub.com^
+||gamesforkidsclub.com^
 ||dab3games.com^
 ||spielaffe.de^
 ||agamecdn.com^
@@ -29,7 +29,7 @@
 ||clashofclans.com^
 ||gamedistribution.com^
 ||exitgames.com^
-! ||gamemonkey.org^
+||gamemonkey.org^
 ||crazygamesmix.com^
 ||gamessumo.com^
 ||gamemonetize.com^
@@ -66,7 +66,7 @@
 ||anywordle.games^
 ||gamepass.com^
 ||gx.games^
-! ||socialpointgames.com^
+||socialpointgames.com^
 ||spiel2.com^
 ||spiele123.com^
 ||spiele-kostenlos-online.de^
@@ -87,7 +87,7 @@
 ||krunker.io^
 ||casualgame.blog^
 ||voodoo-gaming.io^
-! ||playlnk.io^
+||playlnk.io^
 ||castlesiege.io^
 ||wildcastle.io^
 ||castles.cc^
@@ -156,7 +156,7 @@
 ||0hn0.com^
 ||gameaboutsquares.com^
 ||thewikigame.com^
-! ||cursors.io^
+||cursors.io^
 ||decisionproblem.com^
 ||world-of-dungeons.de^
 ||kapihospital.com^
@@ -193,25 +193,25 @@
 ||happywheels.one^
 ||insanegames.io^
 ||gameitnow.com^
-! ||saygames.io^
+||saygames.io^
 ||newkidsgames.org^
 ||gamescrush.com^
 ||girlgames.space^
-! ||hardlightgames.com^
+||hardlightgames.com^
 ||sonderian.com^
 ||twoplayergames.org^
 ||2player.co^
-! ||dreamhomepuzzle.com^
+||dreamhomepuzzle.com^
 ||newheartmoon.com^
 ||lotum.com^
-! ||play-games.googleusercontent.com^
+||play-games.googleusercontent.com^
 ||playgamesio.net^
 ||html5gamesforwebsites.com^
 ||brawlstarsgame.com^
 ||supercell.com^
 ||brawlstars.com^
 ||moonactive.net^
-! ||solitairegamesa.github.io^
+||solitairegamesa.github.io^
 ||zhiz0id.github.io^
 ||lilithgame.com^
 ||games-online.io^
@@ -219,21 +219,21 @@
 ||onlygames.io^
 ||kolibrigames.com^
 ||r2games.com^
-! ||mytonagames.com^
+||mytonagames.com^
 ||codycross-game.com^
 ||fanatee.com^
-! ||scubadogame.com^
+||scubadogame.com^
 ||games.focus.de^
-! ||hwgamecloud.com^
-! ||cdn-kolibrigames.com^
-! ||game-mode.net^
+||hwgamecloud.com^
+||cdn-kolibrigames.com^
+||game-mode.net^
 ||html5-games.io^
 ||gamemonetize.co^
 ||gombis.com^
 ||overwolf.com^
 ||mixgame.net^
 ||wargaming.net^
-! ||mcleodgaming.com^
+||mcleodgaming.com^
 ||spiele101.de^
 ||1001spiele.eu^
 ||vseigru.net^
@@ -270,7 +270,7 @@
 ||bgames.com^
 ||1001games.com^
 ||shockwave.com^
-! ||kogstatic.com^
+||kogstatic.com^
 ||kogama.com^
 ||y8.net^
 ||achtungkurve.com^
@@ -298,15 +298,15 @@
 ||mercury-the-planet.com^
 ||kolody.net^
 ||themodernmethod.org^
-! ||ekiry.com^
+||ekiry.com^
 ||snatch-a-bite.com^
-! ||jbones.com^
+||jbones.com^
 ||unblockedgamesparadise.com^
 ||66ez.net^
 ||sammycheez.com^
 ||schoolquiz.org^
 ||classwork.cc^
-! ||classwork.com^
+||classwork.com^
 ||cheezgam.es^
 ||ruslan.rocks^
 ||gamepluto.com^
@@ -555,21 +555,21 @@
 ||bigfoot.ga^
 ||bigfootninenineninenine.gq^
 ||bigfootshack.tk^
-! ||bingus.ml^
+||bingus.ml^
 ||coursera.cf^
-! ||hotcorn.ga^
-! ||jordansmathwork.ml^
+||hotcorn.ga^
+||jordansmathwork.ml^
 ||lenardsbites.cf^
 ||lenardskicks.cf^
 ||lonelytab.gq^
 ||lonelytab.ml^
 ||rateavon.je^
-! ||schoolmatheduscienceenglish.cf^
-! ||schooltears.ml^
+||schoolmatheduscienceenglish.cf^
+||schooltears.ml^
 ||slideshare.net^
 ||typeracer.gq^
-! ||xboxcontroller.tk^
-! ||yologolosolo.github.io^
+||xboxcontroller.tk^
+||yologolosolo.github.io^
 ||zohoho.live^
 ||bigfootshack.net^
 ||bigfeet.app^
@@ -828,9 +828,9 @@
 ||redremoverblast.com^
 ||flashgamesnexus.com^
 ||freegames.org^
-! ||thegamehomepage.com^
+||thegamehomepage.com^
 ||dailygames.com^
-! ||2flashgames.com^
+||2flashgames.com^
 ||games.fm^
 ||cardhunter.com^
 ||kingdomrush.com^
@@ -889,7 +889,7 @@
 ||mine-craft.io^
 ||zombsroyale.io^
 ||spaceguard.io^
-! ||battlestick.net^
+||battlestick.net^
 ||bumpyball.io^
 ||raaaaft.io^
 ||buildroyale.io^
@@ -1205,7 +1205,7 @@
 ||unblocked66.github.io^
 ||smashkarts.io^
 ||driplife.net^
-! ||hwcdn.net^
+||hwcdn.net^
 ||ikatchelo.github.io^
 ||lekug.github.io^
 ||tbg95.github.io^
@@ -1935,3 +1935,6 @@
 ||gvt2.com^
 ||gvt3.com^
 ||steamcommunity.com^
+||data4game.com^
+||lunarclient.com^
+||gamesaturn.com^
