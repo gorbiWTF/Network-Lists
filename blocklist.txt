@@ -1,4 +1,4 @@
-! 2025-03-07T12:48
+! 2025-03-25T12:38
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
@@ -85,3 +85,6 @@
 ||twitchcdn.net^
 ||fbpigeon.com^
 ||avast.com^
+||yahoodns.net^
+||portaltv.tv^
+||play-lh.googleusercontent.com^
