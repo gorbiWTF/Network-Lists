@@ -1,37 +1,37 @@
-||manage.microsoft.com^ #Intune client and host service
-manage.microsoft.com #Intune client and host service
-EnterpriseEnrollment.manage.microsoft.com #Intune client and host service
-||do.dsp.mp.microsoft.com^ #MDM Delivery Optimization
-||dl.delivery.mp.microsoft.com^ #MDM Delivery Optimization
-swda01-mscdn.manage.microsoft.com #MEM - Win32Apps
-swda02-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdb01-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdb02-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdc01-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdc02-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdd01-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdd02-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdin01-mscdn.manage.microsoft.com #MEM - Win32Apps
-swdin02-mscdn.manage.microsoft.com #MEM - Win32Apps
-account.live.com #Consumer Outlook.com, OneDrive, Device authentication and Microsoft account
-login.live.com #Consumer Outlook.com, OneDrive, Device authentication and Microsoft account
-go.microsoft.com #Endpoint discovery
-config.edge.skype.com #Dependency - Feature Deployment
-ecs.office.com #Dependency - Feature Deployment
-fd.api.orgmsg.microsoft.com #Organizational messages
-ris.prod.api.personalization.ideas.microsoft.com #Organizational messages
-contentauthassetscdn-prod.azureedge.net #Organizational messages
-contentauthassetscdn-prodeur.azureedge.net #Organizational messages
-contentauthrafcontentcdn-prod.azureedge.net #Organizational messages
-contentauthrafcontentcdn-prodeur.azureedge.net #Organizational messages
-||notify.windows.com^ #MEM - WNS Dependencies
-||wns.windows.com^ #MEM - WNS Dependencies
-sinwns1011421.wns.windows.com #MEM - WNS Dependencies
-sin.notify.windows.com #MEM - WNS Dependencies
-||do.dsp.mp.microsoft.com^ #MDM - Delivery Optimization Dependencies
-||dl.delivery.mp.microsoft.com^ #MDM - Delivery Optimization Dependencies
-displaycatalog.mp.microsoft.com #Microsoft Store API (AppInstallManager)
-purchase.md.mp.microsoft.com #Microsoft Store API (AppInstallManager)
-licensing.mp.microsoft.com #Microsoft Store API (AppInstallManager)
-storeedgefd.dsx.mp.microsoft.com #Microsoft Store API (AppInstallManager)
-||dm.microsoft.com^ #Microsoft Defender for Endpoint
+||manage.microsoft.com^
+manage.microsoft.com
+EnterpriseEnrollment.manage.microsoft.com
+||do.dsp.mp.microsoft.com^
+||dl.delivery.mp.microsoft.com^
+swda01-mscdn.manage.microsoft.com
+swda02-mscdn.manage.microsoft.com
+swdb01-mscdn.manage.microsoft.com
+swdb02-mscdn.manage.microsoft.com
+swdc01-mscdn.manage.microsoft.com
+swdc02-mscdn.manage.microsoft.com
+swdd01-mscdn.manage.microsoft.com
+swdd02-mscdn.manage.microsoft.com
+swdin01-mscdn.manage.microsoft.com
+swdin02-mscdn.manage.microsoft.com
+account.live.com
+login.live.com
+go.microsoft.com
+config.edge.skype.com
+ecs.office.com
+fd.api.orgmsg.microsoft.com
+ris.prod.api.personalization.ideas.microsoft.com
+contentauthassetscdn-prod.azureedge.net
+contentauthassetscdn-prodeur.azureedge.net
+contentauthrafcontentcdn-prod.azureedge.net
+contentauthrafcontentcdn-prodeur.azureedge.net
+||notify.windows.com^
+||wns.windows.com^
+sinwns1011421.wns.windows.com
+sin.notify.windows.com
+||do.dsp.mp.microsoft.com^
+||dl.delivery.mp.microsoft.com^
+displaycatalog.mp.microsoft.com
+purchase.md.mp.microsoft.com
+licensing.mp.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+||dm.microsoft.com^
