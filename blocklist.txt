@@ -1,4 +1,4 @@
-! 2025-03-25T12:38
+! 2025-05-20T14:08
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
@@ -90,3 +90,4 @@
 ||play-lh.googleusercontent.com^
 ||playstoregatewayadapter-pa.googleapis.com^
 ||prod-lt-playstoregatewayadapter-pa.googleapis.com^
+||nextdns.io^
