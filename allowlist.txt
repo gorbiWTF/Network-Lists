@@ -21,3 +21,4 @@ prod.pinterest.global.map.fastly.net
 i.pinimg.com
 s.pinimg.com
 ||garticphone.com^
+
