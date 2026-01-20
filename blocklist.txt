@@ -1,4 +1,4 @@
-! 2025-05-20T14:08
+! 2026-01-20T13:16
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
@@ -88,6 +88,57 @@
 ||yahoodns.net^
 ||portaltv.tv^
 ||play-lh.googleusercontent.com^
-||playstoregatewayadapter-pa.googleapis.com^
-||prod-lt-playstoregatewayadapter-pa.googleapis.com^
+"||playstoregatewayadapter-pa.googleapis.com	^"
+"||prod-lt-playstoregatewayadapter-pa.googleapis.com	^"
 ||nextdns.io^
+||myvpnonline.com^
+||winfy.net^
+||runapps.org^
+||macrolorblx.com^
+||schoolisfun.zoho.to^
+||client.endtimeassembly.itafricagroup.com^
+||diamond.swift.cl^
+||wildwestit.com^
+||niceandhealthy.com.mx^
+||greatfallsai.com^
+||lexingtonbroadband.org^
+||deltamath.interdoge.cfd.cdn.cloudflare.net^
+||embeddedonline.org^
+||one.pl^
+||kennyix.com^
+||dbaseworld.com^
+||linktr.ee^
+||retku.fi^
+||k4w411.net^
+||bearvpn.com^
+||appldnld.apple.com^
+||gdmf.apple.com^
+||gg.apple.com^
+||gs.apple.com^
+||updates-http.cdn-apple.com^
+||updates.cdn-apple.com^
+||doh.dns.apple.com^
+||xmpp.messaging.advgo.net^
+||apple-relay.cloudflare.com^
+||qlivecdn.com^
+||yximgs.com^
+||yandex.com^
+||yandex.net^
+||ru^
+||cn^
+||lol^
+||love^
+||polyfill.io^
+||instagram.com^
+||oisd.nl^
+||in-addr.arpa^
+||adblockultimate.net^
+||stream-io-api.com^
+||norton.com^
+||cdninstagram.com^
+||kbz0pwvxmv.com^
+||yg5sjx5kzy.com^
+||hicloud.com^
+||oculus.com^
+||hihonor.com^
+||metademolab.com^
