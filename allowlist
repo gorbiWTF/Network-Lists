@@ -1,3 +1,4 @@
+! 2026-01-20
 anton.app
 apachefriends.org
 aria.microsoft.com
@@ -10,7 +11,7 @@ events.data.microsoft.com
 forms.app
 fronius-se-iot-dm-1-telemetry.azure-devices.net
 fronius-se-iot-telemetry.azure-devices.net
-garticphone.com
+@@||garticphone.com^
 go.theregister.com
 gs-loc.apple.com
 html-load.com
