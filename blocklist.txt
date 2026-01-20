@@ -1,4 +1,4 @@
-! 2026-01-20T13:16
+! 2026-01-20T14:51
 ||dsc.gg^
 ||pages.dev^
 ||herokuapp.com^
@@ -62,7 +62,7 @@
 ||byteintl.com^
 ||tiktokeu-cdn.com^
 ||bytefcdn-ttpeu.com^
-||tiktokcdn-eu.com ^
+||tiktokcdn-eu.com^
 ||tiktok.com^
 ||ibyteimg.com^
 ||byteoversea.com^
@@ -74,7 +74,6 @@
 ||tiktokcdn.com^
 ||tiktokcdn-us.com^
 ||tiktokv.us^
-||tiktokcdn-eu.com^
 ||ttoverseaus.net^
 ||bytedance.map.fastly.net^
 ||tiktokv.com.ttdns2.com^
@@ -88,7 +87,7 @@
 ||yahoodns.net^
 ||portaltv.tv^
 ||play-lh.googleusercontent.com^
-"||playstoregatewayadapter-pa.googleapis.com	^"
+||playstoregatewayadapter-pa.googleapis.com^
 "||prod-lt-playstoregatewayadapter-pa.googleapis.com	^"
 ||nextdns.io^
 ||myvpnonline.com^
